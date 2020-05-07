@@ -1,0 +1,218 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+.fa-facebook{
+    margin: 8px;
+    background-color: royalblue;
+    color: white;
+}
+.fa-twitter{
+    margin: 8px;
+    background-color: royalblue;
+    color: white;
+}
+.fa-instagram{
+    margin: 8px;
+    background-color: royalblue;
+    color: white;
+}
+.fa-youtube{
+    margin: 8px;
+    background-color: royalblue;
+    color: white;
+}
+.fa-whatsapp{
+    margin: 8px;
+    background-color:green;
+    color: white;
+}
+.but1{
+    background-color: whitesmoke;
+    color: darkolivegreen;
+    padding: 4px 4px;
+    font-size: 12px;
+}
+.top{
+    background-color:royalblue
+}
+.second{
+    background-color: whitesmoke;
+    color: white;
+}
+.home{
+    padding-top: 5px;
+}
+/* .marquee1{
+    background-color: royalblue;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size: 12px;color: white;
+}
+
+.green{
+    color:lawngreen;
+}
+.bl{
+    color: blue;
+} */
+.marqu{
+    background-color: royalblue;
+}
+@media only screen and (max-width: 768px) {
+    .galimg{
+        width: 45%;
+    }
+    
+    .marqu {
+      margin: -10px -80px -10px -80px;
+    }
+    .top{
+text-align: center;
+    }
+    #logo2{
+        margin-right: 5rem;
+    }
+ .t{
+    margin: 0 10px 0 10px; 
+ }
+    #gallery{
+    display: inline-block;
+    }
+
+}
+.doing1{
+    
+ }
+}
+
+.introduction{
+    padding-top: 50px;
+    background-color: whitesmoke;
+}
+.introd{
+text-align: center;font-size: 40px;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.logo2{
+    padding-left: 45%;
+    color: darkgreen;
+}
+.t
+{
+    text-align: justify;
+    line-height: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+}
+.cmpl{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: inline-block;    
+    color: white;
+}
+.cmpl1{
+    background-color: royalblue;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 70px 0 90px 0;
+}
+.dg{
+    background-color: white;
+    color: royalblue;
+    padding: 20px 40px 20px 40px;
+    margin: 0 30px 0 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.doing{
+    display: flex;
+    justify-content: space-around;
+    background-color: ghostwhite;
+}
+.doing1{
+    background-color: ghostwhite;
+    padding-top: 50px;
+    padding-bottom: 80px;
+    flex-wrap: wrap;
+    
+}
+.greenline{
+    width: 70px;
+    height: 3px;
+    background-color: green;
+    display: inline-block;
+}
+.link{
+    width: 300px;
+    height: 1px;
+    background-color:lightgray;
+    display: inline-block;
+}
+.link1{
+    width: 40px;
+    height: 3px;
+    background-color: green;
+    display: inline-block;   
+}
+.hepa{
+    display:inline-block;
+    height: 10px;
+}
+.proj{
+    background-color:silver;
+    color: royalblue;
+}
+.gallery{
+    padding-top: 30px;
+    padding-bottom: 150px; 
+}
+.gall{
+    text-align: center;
+}
+.headoffice{
+    background-color: rgb(19, 26, 41);
+    color: grey;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 30px;
+    padding-left: 10px;
+    display: inline-block;    
+}
+
+.useful{
+    background-color:  rgb(19, 26, 41);
+    display: inline-block;
+}
+
+.link2{
+    width: 300px;
+    height: 1px;
+    background-color:grey;
+    display: inline-block;
+}
+.link3{
+    width: 30px;
+    height: 2px;
+    background-color: green;
+    display: inline-block;   
+}    
+.blackend{
+    background-color: rgb(32, 32, 32);
+    display: flex;
+    flex-wrap: wrap;
+}
+.gotop{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background-color: lightgray;
+    bottom: 20px;
+    right: 50px;
+
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+    font-size: 22px;
+}
